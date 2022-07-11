@@ -1,4 +1,4 @@
-# flutter_app2
+# Recipee App
 
 A new Flutter application.
 
